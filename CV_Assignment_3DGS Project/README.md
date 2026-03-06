@@ -22,7 +22,7 @@ This project investigates compression techniques for 3D Gaussian Splatting (3DGS
 ## 📁 Repository Structure
 
 ```
-CV_Assignment_3161685/
+CV_Assignment_3161xxx/
 ├── README.md                          # This file
 ├── report/
 │   ├── CV_Assignment.docx(none)   # Final submission report
@@ -129,8 +129,8 @@ The `visualizations/` directory contains scripts to generate publication-quality
 ## 📝 Report
 
 Complete technical report available in:
-- **Word:** `report/3161685_CV_Assignment_EXTENDED.docx` (Recommended for submission)
-- **Markdown:** `report/Extended_Report_Content.md`
+- **Word:** `report/3161xxx_CV_Assignment.docx` (Recommended for submission)
+- **Markdown:** `report/Report_Content.md`
 
 Report includes:
 - Introduction and Related Work
